@@ -39,8 +39,10 @@ st.markdown("""
 # Load dataset
 @st.cache_data(ttl=1)
 def load_data():
-    if os.path.exists("scratch/assessclear_pre_pilot_dataset.csv"):
-        return pd.read_csv("scratch/assessclear_pre_pilot_dataset.csv")
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_path = os.path.join(base_dir, "scratch", "assessclear_pre_pilot_dataset.csv")
+    if os.path.exists(csv_path):
+        return pd.read_csv(csv_path)
     else:
         # Fallback generator
         np.random.seed(42)
