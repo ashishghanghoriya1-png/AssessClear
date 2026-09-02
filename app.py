@@ -36,8 +36,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Load dataset
-@st.cache_data(ttl=1)
+# Load dataset (no cache to prevent stale data)
 def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     csv_path = os.path.join(base_dir, "scratch", "assessclear_pre_pilot_dataset.csv")
@@ -79,6 +78,9 @@ menu = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.info("💡 **Pre-Pilot Cohort:** 9 Schools · ~351 Students · Katni, Indore, Bhopal, Raisen")
+if st.sidebar.button("🔄 Force Clear App Cache"):
+    st.cache_data.clear()
+    st.rerun()
 
 # 1. Executive Scorecard
 if menu == "📊 Executive Scorecard":
