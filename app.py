@@ -134,23 +134,41 @@ elif menu == "🗺️ District Pre-Pilot Explorer":
     
     st.markdown(f"**Showing {len(filtered_df)} student evaluations:**")
     
-    # District Summary Table
-    district_agg = filtered_df.groupby("district").agg(
-        Students=("student_id", "count"),
-        Avg_AI_Process_Sec=("process_time_sec", "mean"),
-        Avg_Review_Sec=("review_time_sec", "mean"),
-        Avg_Questions_Detected=("questions_detected", "mean")
-    ).reset_index()
-    
-    st.dataframe(district_agg.style.format({
-        "Avg_AI_Process_Sec": "{:.1f}s",
-        "Avg_Review_Sec": "{:.1f}s",
-        "Avg_Questions_Detected": "{:.1f} / 10"
-    }), use_container_width=True)
-    
+    col_tb1, col_tb2 = st.columns([1, 1])
+
+    with col_tb1:
+        st.subheader("📊 District Summary Table")
+        district_agg = filtered_df.groupby("district").agg(
+            Students=("student_id", "count"),
+            Avg_AI_Process_Sec=("process_time_sec", "mean"),
+            Avg_Review_Sec=("review_time_sec", "mean"),
+            Avg_Questions_Detected=("questions_detected", "mean")
+        ).reset_index()
+        
+        st.dataframe(district_agg.style.format({
+            "Avg_AI_Process_Sec": "{:.1f}s",
+            "Avg_Review_Sec": "{:.1f}s",
+            "Avg_Questions_Detected": "{:.1f} / 10"
+        }), use_container_width=True)
+
+    with col_tb2:
+        st.subheader("🏫 School-Level Operational Breakdown")
+        school_agg = filtered_df.groupby(["district", "school"]).agg(
+            Students=("student_id", "count"),
+            Avg_AI_Process_Sec=("process_time_sec", "mean"),
+            Avg_Review_Sec=("review_time_sec", "mean"),
+            Avg_Questions_Detected=("questions_detected", "mean")
+        ).reset_index()
+        
+        st.dataframe(school_agg.style.format({
+            "Avg_AI_Process_Sec": "{:.1f}s",
+            "Avg_Review_Sec": "{:.1f}s",
+            "Avg_Questions_Detected": "{:.1f} / 10"
+        }), use_container_width=True)
+
     # Latency Chart
-    st.subheader("⏱️ Processing & Review Latency by District (Seconds)")
-    st.bar_chart(district_agg.set_index("district")[["Avg_AI_Process_Sec", "Avg_Review_Sec"]])
+    st.subheader("⏱️ Processing & Review Latency by School (Seconds)")
+    st.bar_chart(school_agg.set_index("school")[["Avg_AI_Process_Sec", "Avg_Review_Sec"]])
     
     st.subheader("📋 Granular Student Dataset")
     st.dataframe(filtered_df, use_container_width=True, height=280)
