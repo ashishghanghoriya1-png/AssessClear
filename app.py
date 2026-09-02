@@ -443,6 +443,7 @@ elif menu == "📑 PDF Reports & Downloads":
     st.markdown("Access, view, and download all pre-pilot evaluation documents generated for the AssessClear project.")
     
     reports = [
+        {"Title": "Practitioner Field Synthesis & Strategic Review (Prose Summary Report)", "File": "Practitioner_Field_Synthesis_and_Strategic_Review.pdf", "Desc": "Narrative evaluation report in prose written from senior education specialist and policy advocacy perspective covering Sakhi AI & AssessClear."},
         {"Title": "AssessClear: Unified Master Executive & Technical Summary", "File": "AssessClear_Master_Executive_and_Technical_Summary.pdf", "Desc": "Complete master synthesis across diagnostic intelligence, Qwen evaluation, and TabFM metrics."},
         {"Title": "AssessClear Diagnostic Intelligence: Strategic Action Plan", "File": "AssessClear_Diagnostic_Intelligence_Pre_Pilot_Evaluation_and_Strategic_Action_Plan.pdf", "Desc": "Full 17-section evaluation document with P0-P3 master roadmap."},
         {"Title": "AssessClear TabFM Empirical Analysis Report", "File": "AssessClear_TabFM_Empirical_Analysis_Report.pdf", "Desc": "Quantitative machine learning data analysis using TabFM Classifier, Regressor & Zero-Shot simulation."},
