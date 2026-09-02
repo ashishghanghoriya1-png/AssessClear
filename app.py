@@ -51,8 +51,10 @@ def load_data():
             records.append({"student_id": f"IND-{i+1:03d}", "district": "Indore", "school": "Nandbag" if i < 50 else "Subhash Nagar", "grade": 6 if i < 50 else 8, "subject": "Math" if i%2==0 else "Hindi", "class_size": 40, "network_quality": "Good_4G", "questions_detected": np.random.choice([7,8,9,10], p=[0.25,0.20,0.15,0.40]), "process_time_sec": np.random.normal(23, 3), "review_time_sec": np.random.normal(101, 12), "risk_tier": "High" if i<15 else "Medium"})
         for i in range(91):
             records.append({"student_id": f"KAT-{i+1:03d}", "district": "Katni", "school": "EPES Purwar" if i < 32 else "MS Devri Hatai", "grade": 6, "subject": "Math" if i%2==0 else "Hindi", "class_size": 42, "network_quality": "Moderate_3G", "questions_detected": np.random.choice([8,9,10], p=[0.20,0.30,0.50]), "process_time_sec": np.random.normal(26, 4), "review_time_sec": np.random.normal(208, 20), "risk_tier": "High"})
-        for i in range(35):
-            records.append({"student_id": f"RAI-{i+1:03d}", "district": "Raisen", "school": "MS Kharbai", "grade": 7, "subject": "Math", "class_size": 35, "network_quality": "No_Network_Zero", "questions_detected": 0, "process_time_sec": 0, "review_time_sec": 0, "risk_tier": "Critical_Blocker"})
+        for i in range(20):
+            records.append({"student_id": f"RAI-KHA-{i+1:03d}", "district": "Raisen", "school": "MS Kharbai", "grade": 7, "subject": "Math", "class_size": 35, "network_quality": "No_Network_Zero", "questions_detected": 0, "process_time_sec": 0.0, "review_time_sec": 0.0, "risk_tier": "Critical_Blocker"})
+        for i in range(15):
+            records.append({"student_id": f"RAI-BIS-{i+1:03d}", "district": "Raisen", "school": "MS Bishankheda", "grade": 6, "subject": "Hindi", "class_size": 25, "network_quality": "Moderate_3G", "questions_detected": np.random.choice([8,9,10], p=[0.2,0.3,0.5]), "process_time_sec": np.random.normal(26.5, 3.5), "review_time_sec": np.random.normal(112.0, 12.0), "risk_tier": "Medium"})
         return pd.DataFrame(records)
 
 df = load_data()
@@ -254,34 +256,163 @@ elif menu == "🛠️ Prioritized Action Roadmap (P0-P3)":
     
     st.table(pd.DataFrame(roadmap_data))
 
-# 5. Ask Qwen AI Assistant
+# 5. Ask Qwen AI Assistant & Conversation Center
 elif menu == "💬 Ask Qwen AI Assistant":
-    st.title("💬 Ask Qwen AI Assistant (Local `qwen3:14B` on GPU)")
-    st.markdown("Query assessment insights directly from your local Qwen model running via Ollama.")
+    st.title("💬 AssessClear AI Assistant & Conversation Center")
+    st.markdown("Load, view, import, export, and continue pre-pilot AI conversations across PCs.")
     
-    user_q = st.text_input("Enter your question about AssessClear pre-pilot findings:", "What are the primary reasons teachers reported double effort during the pre-pilot?")
+    conv_dir = "scratch/conversations"
+    os.makedirs(conv_dir, exist_ok=True)
     
-    if st.button("Query Local Qwen Model"):
-        with st.spinner("Executing query on local GPU via Ollama..."):
+    # Helper to check Ollama status
+    def check_ollama_status():
+        try:
+            r = requests.get("http://localhost:11434/api/tags", timeout=2)
+            return r.status_code == 200
+        except Exception:
+            return False
+
+    ollama_online = check_ollama_status()
+    
+    if ollama_online:
+        st.success("🟢 **Ollama GPU Engine Active (`qwen3:14B` Connected)**")
+    else:
+        st.info("🟡 **Offline Knowledge Base Mode Active** (Ollama not connected on this PC - using pre-indexed evaluation reports search engine)")
+
+    st.markdown("---")
+
+    # Conversation Session Controls
+    c_list_files = [f for f in os.listdir(conv_dir) if f.endswith(".json")]
+    c_options = {"New Conversation": None}
+    for fname in c_list_files:
+        fpath = os.path.join(conv_dir, fname)
+        try:
+            with open(fpath, "r", encoding="utf-8") as jf:
+                cdata = json.load(jf)
+                title = cdata.get("title", fname)
+                c_options[f"📂 {title} ({fname})"] = fname
+        except Exception:
+            c_options[f"📄 {fname}"] = fname
+
+    col_ctrl1, col_ctrl2, col_ctrl3 = st.columns([2, 1, 1])
+
+    with col_ctrl1:
+        selected_conv_label = st.selectbox("Select & Load Saved Conversation", options=list(c_options.keys()))
+        selected_conv_file = c_options[selected_conv_label]
+
+    with col_ctrl2:
+        uploaded_file = st.file_uploader("📥 Import Conversation (.json)", type=["json"])
+        if uploaded_file is not None:
             try:
-                payload = {
-                    "model": "qwen3:14B",
-                    "messages": [
-                        {"role": "system", "content": "You are an expert product analyst for AssessClear."},
-                        {"role": "user", "content": user_q}
-                    ],
-                    "stream": False,
-                    "options": {"temperature": 0.3}
-                }
-                res = requests.post("http://localhost:11434/api/chat", json=payload, timeout=90)
-                if res.status_code == 200:
-                    ans = res.json().get("message", {}).get("content", "No content returned.")
-                    st.markdown("### 🤖 Response from Qwen 3 (14B):")
-                    st.info(ans)
+                imported_data = json.load(uploaded_file)
+                import_fname = f"imported_{uploaded_file.name}"
+                import_fpath = os.path.join(conv_dir, import_fname)
+                with open(import_fpath, "w", encoding="utf-8") as outf:
+                    json.dump(imported_data, outf, indent=2, ensure_ascii=False)
+                st.success(f"Loaded '{import_fname}'!")
+                st.rerun()
+            except Exception as ex:
+                st.error(f"Import error: {ex}")
+
+    # Session State Management
+    if "current_conv_file" not in st.session_state or st.session_state.current_conv_file != selected_conv_file:
+        st.session_state.current_conv_file = selected_conv_file
+        if selected_conv_file is not None:
+            fpath = os.path.join(conv_dir, selected_conv_file)
+            with open(fpath, "r", encoding="utf-8") as jf:
+                loaded = json.load(jf)
+                st.session_state.chat_history = loaded.get("messages", [])
+                st.session_state.chat_title = loaded.get("title", "Saved Session")
+        else:
+            st.session_state.chat_history = []
+            st.session_state.chat_title = "New Conversation"
+
+    with col_ctrl3:
+        if st.session_state.chat_history:
+            export_payload = json.dumps({
+                "title": getattr(st.session_state, "chat_title", "Conversation Export"),
+                "timestamp": pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "messages": st.session_state.chat_history
+            }, indent=2, ensure_ascii=False)
+            
+            st.download_button(
+                label="📤 Export Active Session",
+                data=export_payload,
+                file_name="assessclear_conversation.json",
+                mime="application/json"
+            )
+
+    st.markdown("---")
+
+    # Render Conversation Messages
+    for msg in st.session_state.chat_history:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+    # User Input Field
+    user_input = st.chat_input("Ask a question about AssessClear pre-pilot findings, TabFM models, or roadmap...")
+    
+    if user_input:
+        # Display User Message
+        st.session_state.chat_history.append({"role": "user", "content": user_input})
+        with st.chat_message("user"):
+            st.markdown(user_input)
+
+        # Generate Assistant Response
+        with st.chat_message("assistant"):
+            if ollama_online:
+                with st.spinner("Executing query on local GPU via Ollama..."):
+                    try:
+                        payload = {
+                            "model": "qwen3:14B",
+                            "messages": [
+                                {"role": "system", "content": "You are an expert product analyst for AssessClear."}
+                            ] + st.session_state.chat_history,
+                            "stream": False,
+                            "options": {"temperature": 0.3}
+                        }
+                        res = requests.post("http://localhost:11434/api/chat", json=payload, timeout=90)
+                        if res.status_code == 200:
+                            ans = res.json().get("message", {}).get("content", "No content returned.")
+                        else:
+                            ans = f"Ollama API Error: HTTP {res.status_code}"
+                    except Exception as e:
+                        ans = f"Connection error to Ollama: {e}"
+            else:
+                # Offline Knowledge Base Fallback
+                q_words = [w.lower() for w in user_input.split() if len(w) > 3]
+                reports_text = ""
+                for rname in ["qwen_master_summary_direct.md", "qwen_generated_report.md", "qwen_8_reports.md"]:
+                    rpath = os.path.join("scratch", rname)
+                    if os.path.exists(rpath):
+                        with open(rpath, "r", encoding="utf-8") as rf:
+                            reports_text += rf.read() + "\n\n"
+                
+                paras = reports_text.split("\n\n")
+                matched = [p.strip() for p in paras if any(w in p.lower() for w in q_words)]
+                
+                if matched:
+                    ans = "### 💡 Diagnostic Report Retrieval (Offline PC Mode)\n\n" + "\n\n".join(matched[:3])
                 else:
-                    st.error(f"Ollama API Error: HTTP {res.status_code}")
-            except Exception as e:
-                st.error(f"Could not connect to local Ollama instance: {e}")
+                    ans = "### 💡 Pre-Pilot Summary (Offline PC Mode)\n\n" \
+                          "AssessClear pre-pilot evaluated 351 students across Katni, Indore, Bhopal, and Raisen. " \
+                          "Key strengths include multi-tiered feedback and partial score recognition. " \
+                          "Primary blockers to resolve before pilot deployment include vision auto-crop drops (Q1/Q2), " \
+                          "review latency (144s/paper), and zero-network stops in rural schools."
+
+            st.markdown(ans)
+            st.session_state.chat_history.append({"role": "assistant", "content": ans})
+
+            # Auto-save active session to disk
+            active_file = st.session_state.current_conv_file or "active_session.json"
+            active_path = os.path.join(conv_dir, active_file)
+            save_data = {
+                "title": getattr(st.session_state, "chat_title", "Active Session"),
+                "timestamp": pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "messages": st.session_state.chat_history
+            }
+            with open(active_path, "w", encoding="utf-8") as sf:
+                json.dump(save_data, sf, indent=2, ensure_ascii=False)
 
 # 6. PDF Reports & Downloads
 elif menu == "📑 PDF Reports & Downloads":

@@ -1,0 +1,15 @@
+{
+  "title": "Google TabFM Machine Learning Risk & Latency Models",
+  "timestamp": "2026-08-31 14:30:00",
+  "description": "Zero-shot classification, regression time scaling, and rural network zero-shot simulation.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How does the Google TabFM Classifier predict student risk tiers?"
+    },
+    {
+      "role": "assistant",
+      "content": "### 🤖 Google TabFM Zero-Shot Classifier\n\nGoogle's Tabular Foundation Model (TabFM) performs zero-shot risk triage over student evaluation tabular features without model fine-tuning:\n\n1. **High Remedial Risk (Orange/Red):** Triggered when student rubric weight score is < 0.50 or attendance < 65%. Automatically dispatches Sakhi AI WhatsApp remedial modules.\n2. **Critical Blocker (Red):** Triggered when network quality is `No_Network_Zero` (e.g., MS Kharbai, Raisen), locking out mobile PWA ingestion.\n3. **Low Risk / On-Track (Green):** Triggered when rubric score >= 0.70 with steady attendance (>75%)."
+    }
+  ]
+}

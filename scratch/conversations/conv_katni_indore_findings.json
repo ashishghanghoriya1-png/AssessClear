@@ -1,0 +1,15 @@
+{
+  "title": "District Empirical Observations: Katni & Indore",
+  "timestamp": "2026-08-31 14:15:00",
+  "description": "Granular field observations, OCR error rates, and teacher feedback from Katni and Indore.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What specific issues were observed during the Indore and Katni pre-pilots?"
+    },
+    {
+      "role": "assistant",
+      "content": "### 🗺️ Granular Findings: Indore & Katni Pre-Pilots\n\n#### **1. Indore (Subhash Nagar MS 108 & Nandbag - 100 Students)**\n- **Observer:** Smt. Deepti Khandelwal (DIET Indore).\n- **Rapid Upload:** Uploading up to 10 sheets worked smoothly (20-30s per sheet).\n- **AI Rigidness Failure:** Question asked for '90 days'; student wrote '3 months'. AI strictly marked it wrong.\n- **Vision Crop Drop:** Q1 and Q2 on page 1 were consistently auto-cropped out (only 7 out of 10 questions evaluated).\n- **Teacher Feedback:** AI must be positioned as a **Teacher Support Tool**, not a teacher replacement.\n\n#### **2. Katni (EPES Purwar & MS Devri Hatai - 91 Students)**\n- **Data Loss Rate:** 59.3% of historical data was purged due to the 200-evaluation database cap.\n- **Digit OCR Misreads:** 5.1% error rate on handwritten numbers (e.g., misreading '9996' as '3226').\n- **Review Latency:** 208 seconds average review time per paper due to slow manual corrections."
+    }
+  ]
+}

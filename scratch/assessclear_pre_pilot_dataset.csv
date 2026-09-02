@@ -1,352 +1,352 @@
-student_id,district,school,grade,subject,class_size,network_quality,paper_type,questions_count,questions_detected,process_time_sec,review_time_sec,has_digit_ocr_error,has_mcq_error,has_corrected_pencil_error,session_code_lost,dashboard_cap_impacted,risk_tier
-KAT-PUR-01,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,21.66435964585924,201.37804369378767,0,0,0,1,0,High
-KAT-PUR-02,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,29.737638446522176,210.34869458305818,0,0,0,0,0,High
-KAT-PUR-03,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,23.257365597929454,184.49660385643705,0,0,1,0,0,High
-KAT-PUR-04,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,25.725886814698104,156.73439510684403,1,0,0,0,0,High
-KAT-PUR-05,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,27.449335242853984,164.5224800476828,0,0,0,0,0,High
-KAT-PUR-06,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,22.27592777343637,166.75392597329417,0,1,0,0,0,High
-KAT-PUR-07,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,23.111575117227247,206.95440933825216,0,0,0,0,0,High
-KAT-PUR-08,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,23.36685182642445,197.21845179419734,0,0,0,0,0,High
-KAT-PUR-09,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,23.199238449682266,213.94879642093278,0,0,1,0,0,High
-KAT-PUR-10,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,23.194880163311808,232.04556369017877,0,0,0,0,0,High
-KAT-PUR-11,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,23.39905358847254,194.88944275359748,0,0,0,1,0,High
-KAT-PUR-12,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,27.467634736309567,170.58312700057957,1,0,0,0,0,High
-KAT-PUR-13,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,33.334939124657325,218.87279448564635,0,0,0,0,0,High
-KAT-PUR-14,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,27.215399739986232,198.4273656237994,0,0,0,0,0,High
-KAT-PUR-15,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,21.972743971404675,163.33411572926224,0,1,0,0,0,High
-KAT-PUR-16,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,23.618083687120638,216.1424445243783,0,0,0,0,0,High
-KAT-PUR-17,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,21.608343085955298,197.68857765256044,0,0,0,0,0,High
-KAT-PUR-18,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,22.969233999082125,207.23352577681734,0,0,0,0,0,High
-KAT-PUR-19,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,8,26.746368384139117,212.75496919186713,0,0,0,0,0,High
-KAT-PUR-20,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,22.482347430332084,188.8157524829757,0,0,0,0,0,High
-KAT-PUR-21,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,20.47554013135755,216.9929395156964,0,0,0,1,0,High
-KAT-PUR-22,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,8,21.680995077981915,171.0758675183866,0,0,0,0,1,High
-KAT-PUR-23,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,27.504386257691284,200.9312276865794,0,0,0,0,1,High
-KAT-PUR-24,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,9,26.084908075142902,182.0976049078975,0,0,0,0,1,High
-KAT-PUR-25,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,29.48630275865042,201.76362503986638,0,0,0,0,1,High
-KAT-PUR-26,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,9,17.140764687730766,211.43805008750448,0,0,0,0,1,High
-KAT-PUR-27,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,8,20.74374862422579,215.84983234678842,0,0,0,0,1,High
-KAT-PUR-28,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,24.340984336487463,202.14225143023492,0,0,0,0,1,High
-KAT-PUR-29,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,9,22.63222501390624,209.87422567542453,0,0,0,0,1,High
-KAT-PUR-30,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,8,22.574519191320437,184.96485912830926,0,0,0,0,1,High
-KAT-PUR-31,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,26.504344994574417,218.16373305864056,0,0,0,1,1,High
-KAT-PUR-32,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,23.410719388698883,205.26534866226712,0,0,0,0,1,High
-KAT-DEV-01,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,33.4874485341991,214.3888323488708,0,0,0,1,0,High
-KAT-DEV-02,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,25.19178762449059,201.8084463350558,0,0,1,0,0,High
-KAT-DEV-03,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,33.09493448055822,202.7011832293595,0,0,0,0,0,High
-KAT-DEV-04,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,28.020453826569845,204.13532166562132,0,0,0,0,0,High
-KAT-DEV-05,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,9,26.41793419367883,202.77157858825146,1,0,0,0,0,High
-KAT-DEV-06,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,27.354857153335963,220.10127142036345,0,0,0,0,0,High
-KAT-DEV-07,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,9,24.22777276613095,245.09896846648235,0,0,0,0,0,High
-KAT-DEV-08,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,20.324915138803835,209.33715311376957,0,1,0,0,0,High
-KAT-DEV-09,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,28.409390730198666,199.18476798629968,0,0,0,1,0,High
-KAT-DEV-10,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,9,27.23055614087551,217.53868355834032,0,0,0,0,0,High
-KAT-DEV-11,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,7,29.359283856746575,209.81549625138567,0,0,0,0,0,High
-KAT-DEV-12,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,32.571291258060086,228.79832581716934,0,0,0,0,0,High
-KAT-DEV-13,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,24.792688626601226,244.60039297331696,0,0,0,0,0,High
-KAT-DEV-14,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,30.34742837520108,264.76139064524943,0,0,0,0,0,High
-KAT-DEV-15,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,7,26.026270071186694,233.07906520854883,0,0,0,0,0,High
-KAT-DEV-16,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,28.398605460350566,197.41310864709502,0,0,1,0,0,High
-KAT-DEV-17,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,28.036577382960548,200.86151757918643,0,0,0,1,1,High
-KAT-DEV-18,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,23.75078514509558,221.83981076587955,0,0,0,0,1,High
-KAT-DEV-19,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,30.48219286384694,205.97656557842342,1,0,0,0,1,High
-KAT-DEV-20,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,7,24.86698683065505,201.94846209485812,0,0,0,0,1,High
-KAT-DEV-21,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,26.573019896927224,223.90304496334915,0,0,0,0,1,High
-KAT-DEV-22,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,28.90983973841652,242.6785688570607,0,0,0,0,1,High
-KAT-DEV-23,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,9,26.702036168684426,204.85333207261237,0,1,0,0,1,High
-KAT-DEV-24,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,29.039531176993695,229.54557179443276,0,0,0,0,1,High
-KAT-DEV-25,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,8,33.19758725705795,188.32134609876118,0,0,0,1,1,High
-KAT-DEV-26,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,29.001971401383507,218.66120523742438,0,0,0,0,1,High
-KAT-DEV-27,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,28.9051530779955,231.18503581441598,0,0,0,0,1,High
-KAT-DEV-28,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,7,29.172289893194726,192.14121454934082,0,0,0,0,1,High
-KAT-DEV-29,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,7,28.699332047965886,179.57862769101902,0,0,0,0,1,High
-KAT-DEV-30,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,23.234786011189406,226.41384021584574,0,0,1,0,1,High
-KAT-DEV-31,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,24.995282301344286,181.73929867198675,0,0,0,0,1,High
-KAT-DEV-32,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,31.85350451697729,220.31952317341245,0,0,0,0,1,High
-KAT-DEV-33,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,24.5294356400825,213.64654631070775,0,0,0,1,1,High
-KAT-DEV-34,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,9,24.44194228149791,189.60474287586405,1,0,0,0,1,High
-KAT-DEV-35,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10,10,31.51469419276358,204.01013729515475,0,0,0,0,1,High
-KAT-DEV-36,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,28.052007567511627,246.33835192893292,0,0,0,0,1,High
-KAT-DEV-37,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,9,22.374378931273803,209.13675859762978,0,0,0,0,1,High
-KAT-DEV-38,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,23.71643000775555,222.06181038107962,0,0,0,0,1,High
-KAT-DEV-39,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,27.50347044447336,228.50852044869347,0,0,0,0,1,High
-KAT-DEV-40,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,24.61282512772638,172.12881938285338,0,0,0,0,1,High
-KAT-DEV-41,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,24.295813523154088,197.17586705910946,0,0,0,1,1,High
-KAT-DEV-42,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,9,28.692723703404727,219.63293449322092,0,0,0,0,1,High
-KAT-DEV-43,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,9,28.92381489178053,189.77657771524096,0,0,0,0,1,High
-KAT-DEV-44,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,28.232834873784,181.42574255423443,0,0,0,0,1,High
-KAT-DEV-45,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,31.48978863064181,236.65496360244344,0,0,0,0,1,High
-KAT-DEV-46,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,22.489322528171634,186.55437400212193,0,0,0,0,1,High
-KAT-DEV-47,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,29.21779647948341,216.43018727450266,0,0,0,0,1,High
-KAT-DEV-48,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,30.06019074522419,306.31828726636803,0,0,0,0,1,High
-KAT-DEV-49,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,33.32352531188834,234.7050652626028,0,0,0,1,1,High
-KAT-DEV-50,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,26.738923021438616,228.9742305123317,0,0,0,0,1,High
-KAT-DEV-51,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,9,28.660091192437353,188.6017770542658,0,0,0,0,1,High
-KAT-DEV-52,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,7,37.25863426669403,163.3183701852063,0,0,0,0,1,High
-KAT-DEV-53,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,8,26.341872778440433,212.00496781352035,0,0,0,0,1,High
-KAT-DEV-54,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,7,26.112272536842266,237.22376492418414,0,0,0,0,1,High
-KAT-DEV-55,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,7,34.24152056453151,213.21377500177704,0,0,0,0,1,High
-KAT-DEV-56,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,8,25.078533473131454,215.41146473954936,0,0,0,0,1,High
-KAT-DEV-57,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,7,37.55614382956985,256.0853439580133,0,0,0,1,1,High
-KAT-DEV-58,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,19.899429653369573,214.6613578692357,0,0,0,0,1,High
-KAT-DEV-59,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10,10,26.22200502312327,168.27169102273672,0,0,0,0,1,High
-IND-NAN-01,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,23.009974557960913,102.98632791255181,0,0,0,0,0,Medium
-IND-NAN-02,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.331505817699266,85.23229640234125,0,0,0,0,0,Medium
-IND-NAN-03,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,25.530908480562193,96.07472566441433,0,0,0,0,0,Medium
-IND-NAN-04,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,22.754592530920817,114.77026479719235,0,0,0,0,0,Medium
-IND-NAN-05,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,18.961260068091974,82.73648890700623,0,0,0,0,0,Medium
-IND-NAN-06,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,21.525216077586663,118.08008520708457,0,0,0,0,0,Medium
-IND-NAN-07,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,15.517465319861856,74.63418537998565,1,0,0,0,0,Medium
-IND-NAN-08,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,18.0100768568847,70.4971073760984,0,0,0,0,0,Medium
-IND-NAN-09,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.119911026606033,91.96110865929137,0,0,0,0,0,Medium
-IND-NAN-10,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,22.11701780461369,125.21995392675484,0,1,0,0,0,Medium
-IND-NAN-11,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,20.036982697904097,96.93155211394907,0,0,0,0,0,Medium
-IND-NAN-12,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,21.595084948336897,90.91344910675741,0,0,0,0,0,Medium
-IND-NAN-13,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,22.227034690502496,99.9319601178157,0,0,0,0,0,Medium
-IND-NAN-14,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,20.76973264445734,121.66976462424378,0,0,0,0,0,Medium
-IND-NAN-15,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.696429809928834,98.82475809726864,0,0,0,0,0,Medium
-IND-NAN-16,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.02713446789528,93.1139739192858,0,0,0,0,0,Medium
-IND-NAN-17,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,20.821270486111576,102.74403145531537,0,0,0,0,0,Medium
-IND-NAN-18,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,23.90402218769339,111.78825371193557,0,0,0,0,0,Medium
-IND-NAN-19,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,23.62572423767792,99.44443262885419,0,0,0,0,0,Medium
-IND-NAN-20,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,23.10347402093015,79.34808063108774,0,0,0,0,0,Medium
-IND-NAN-21,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.958196812071705,91.75991074963173,0,0,0,0,0,Medium
-IND-NAN-22,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,20.661594543637573,107.42905976620162,1,0,0,0,0,Medium
-IND-NAN-23,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.56463759354556,106.48165277980786,0,0,0,0,0,Medium
-IND-NAN-24,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,21.18416929445741,93.92434583958699,0,0,0,0,0,Medium
-IND-NAN-25,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,24.61095761430866,90.31505762449139,0,0,0,0,0,Medium
-IND-NAN-26,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,9,21.52155040426049,102.80962066601784,0,0,0,0,0,Medium
-IND-NAN-27,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,8,22.648332704976884,88.04785418448473,0,0,0,0,0,Medium
-IND-NAN-28,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,25.824635279679942,105.97840623820377,0,0,0,0,0,Medium
-IND-NAN-29,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,19.987965237000594,71.78717080818402,0,0,0,0,0,Medium
-IND-NAN-30,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10,10,23.541356659046222,100.00584155204687,0,0,0,0,0,Medium
-IND-NAN-31,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,21.97550645430617,76.54118442771252,0,0,0,0,0,Medium
-IND-NAN-32,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,17.81996450273944,116.55647274850078,0,0,0,0,0,Medium
-IND-NAN-33,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,20.349005606414977,85.1792123752051,0,0,0,0,0,Medium
-IND-NAN-34,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,23.22768268295085,110.36821182149983,0,0,0,0,0,Medium
-IND-NAN-35,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,22.489933142217446,82.39585236943306,0,0,0,0,0,Medium
-IND-NAN-36,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,23.118218405229054,103.08812387145719,0,0,0,0,0,Medium
-IND-NAN-37,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,19.10383131700535,68.88804338435168,0,0,0,0,0,Medium
-IND-NAN-38,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,20.671545113391154,110.40167049372258,0,0,0,0,0,Medium
-IND-NAN-39,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,8,22.62181513119601,112.13034325424329,0,0,0,0,0,Medium
-IND-NAN-40,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,21.395351515847384,89.93155756514555,0,0,0,0,0,Medium
-IND-NAN-41,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,22.645437120676178,77.59153584671516,0,0,0,0,0,Medium
-IND-NAN-42,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,22.98537296760081,91.33309509197615,0,0,0,0,0,Medium
-IND-NAN-43,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,9,23.380287983422225,83.98169292171245,0,0,0,0,0,Medium
-IND-NAN-44,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,9,22.139305329037757,104.75256459537698,0,0,0,0,0,Medium
-IND-NAN-45,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,22.195352197097662,78.404853242168,0,0,0,0,0,Medium
-IND-NAN-46,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,26.551522595134408,96.09340027574892,0,0,0,0,0,Medium
-IND-NAN-47,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,26.306364915023114,78.48978655667926,0,0,0,0,0,Medium
-IND-NAN-48,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,21.77813612874098,104.64463689721654,0,0,0,0,0,Medium
-IND-NAN-49,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,20.32055631563845,81.00911031833967,0,0,0,0,0,Medium
-IND-NAN-50,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10,10,24.065200808035954,62.84803012505976,0,0,0,0,0,Medium
-IND-SUB-01,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,25.025267927331477,138.77107510588596,0,0,0,0,0,Medium
-IND-SUB-02,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,25.714042530980365,122.46942876023779,0,0,0,0,0,High
-IND-SUB-03,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,20.039300378938073,137.96625778537836,0,0,0,0,0,High
-IND-SUB-04,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,23.77916665262428,99.9200185982302,0,0,0,0,0,High
-IND-SUB-05,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,18.860596412727368,129.36970273497744,0,0,1,0,0,High
-IND-SUB-06,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,24.826905473662222,110.0170146294719,1,0,0,0,0,High
-IND-SUB-07,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,19.216717023616898,94.21124958683208,0,0,0,0,0,Medium
-IND-SUB-08,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,24.77816792699908,110.44226922596957,0,0,0,0,0,Medium
-IND-SUB-09,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,24.01573109915455,105.84565068776536,0,0,0,0,0,Medium
-IND-SUB-10,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,23.06092887535068,76.21577749432532,0,0,0,0,0,Medium
-IND-SUB-11,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,24.360886895135696,114.25989901305748,0,0,0,0,0,Medium
-IND-SUB-12,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,27.181340442331404,132.7446779445273,0,0,0,0,0,Medium
-IND-SUB-13,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,24.996942035938776,91.52724234198203,0,1,0,0,0,Medium
-IND-SUB-14,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,9,24.344584404641687,132.9227313851935,0,0,0,0,0,Medium
-IND-SUB-15,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,30.18224377464596,136.5961351639777,0,0,0,0,0,Medium
-IND-SUB-16,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,20.938850258213535,100.15630011727889,0,0,0,0,0,Medium
-IND-SUB-17,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,25.936127848755444,129.63536803558227,0,0,0,0,0,Medium
-IND-SUB-18,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,22.69904901968446,98.83844450476082,0,0,0,0,0,Medium
-IND-SUB-19,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,27.175273460548762,73.34268924438395,0,0,0,0,0,Medium
-IND-SUB-20,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,26.65819068073846,102.53259922124664,1,0,0,0,0,Medium
-IND-SUB-21,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,28.507071156288085,106.33370604755595,0,0,0,0,0,Medium
-IND-SUB-22,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,26.944642130190243,110.95261002715077,0,0,0,0,0,Medium
-IND-SUB-23,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,18.889852681934535,104.00014141986087,0,0,0,0,0,Medium
-IND-SUB-24,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,23.981402580978383,112.2561478875404,0,0,0,0,0,Medium
-IND-SUB-25,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,20.08659149848544,117.05410587894069,0,0,0,0,0,Medium
-IND-SUB-26,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,20.696244285458665,113.7781189486193,0,0,0,0,0,Medium
-IND-SUB-27,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,8,23.811962708180484,122.19256176902229,0,0,0,0,0,Medium
-IND-SUB-28,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,10,22.659949587927997,96.43791573656516,0,0,0,0,0,Medium
-IND-SUB-29,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,22.409227144882678,90.72828901927781,0,1,0,0,0,Medium
-IND-SUB-30,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10,7,19.69773339230243,101.55240916956073,0,0,0,0,0,Medium
-IND-SUB-31,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,8,29.89417539874917,105.63474393549112,0,0,0,0,0,Medium
-IND-SUB-32,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,25.54376697207162,126.68343130636485,0,0,0,0,0,Medium
-IND-SUB-33,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,23.66301585092751,101.02254720840199,0,0,0,0,0,Medium
-IND-SUB-34,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,10,21.79076348322706,115.43107922789737,0,0,0,0,0,Medium
-IND-SUB-35,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,23.17484490854507,63.56541903475947,0,0,0,0,0,Medium
-IND-SUB-36,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,10,22.12042745193437,65.54165898764438,0,0,0,0,0,Medium
-IND-SUB-37,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,10,25.7296708891673,110.60250278178366,0,0,0,0,0,Medium
-IND-SUB-38,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,9,21.083194356827786,106.4306841327157,0,0,0,0,0,Medium
-IND-SUB-39,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,8,19.18066103922728,108.66234544561001,0,0,0,0,0,Medium
-IND-SUB-40,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,23.439284632318774,104.13976420727631,0,0,0,0,0,Medium
-IND-SUB-41,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,8,22.060281347272422,85.5321359349409,0,0,0,0,0,Medium
-IND-SUB-42,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,24.65466819759329,121.39015420267945,0,0,0,0,0,Medium
-IND-SUB-43,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,10,23.976082076050147,131.63899450002046,0,0,0,0,0,Medium
-IND-SUB-44,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,31.122988210477164,123.26158846837136,0,0,0,0,0,Medium
-IND-SUB-45,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,10,20.888261537020632,101.57390379449505,0,0,0,0,0,Medium
-IND-SUB-46,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,28.18719580778569,81.42631277978583,0,0,0,0,0,Medium
-IND-SUB-47,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,9,19.804297278542577,115.13344626043028,0,0,0,0,0,Medium
-IND-SUB-48,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,22.62567029150587,93.73212725542079,0,0,0,0,0,Medium
-IND-SUB-49,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,22.222818227283394,89.44816614576331,0,0,0,0,0,Medium
-IND-SUB-50,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10,7,16.491721435013353,117.32355962799303,0,0,0,0,0,Medium
-BHP-RAI-001,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,1,1,Critical_Blocker
-BHP-RAI-002,Raisen,MS Kharbai,8,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-003,Raisen,MS Kharbai,7,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-004,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-005,Raisen,MS Kharbai,8,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-006,Raisen,MS Kharbai,7,Math,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-007,Raisen,MS Kharbai,7,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,1,Critical_Blocker
-BHP-RAI-008,Raisen,MS Kharbai,6,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-009,Raisen,MS Kharbai,7,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-010,Raisen,MS Kharbai,6,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,1,0,Critical_Blocker
-BHP-RAI-011,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-012,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-013,Raisen,MS Kharbai,6,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,1,Critical_Blocker
-BHP-RAI-014,Raisen,MS Kharbai,8,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-015,Raisen,MS Kharbai,8,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-016,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-017,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-018,Raisen,MS Kharbai,7,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-019,Raisen,MS Kharbai,6,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,1,1,Critical_Blocker
-BHP-RAI-020,Raisen,MS Kharbai,6,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-021,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-022,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-023,Raisen,MS Kharbai,8,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-024,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-025,Raisen,MS Kharbai,7,Math,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,1,Critical_Blocker
-BHP-RAI-026,Raisen,MS Kharbai,6,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-027,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-028,Raisen,MS Kharbai,6,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,1,0,Critical_Blocker
-BHP-RAI-029,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-030,Raisen,MS Kharbai,7,Math,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-031,Raisen,MS Kharbai,6,Math,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,1,Critical_Blocker
-BHP-RAI-032,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-033,Raisen,MS Kharbai,7,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-034,Raisen,MS Kharbai,6,Hindi,30,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-035,Raisen,MS Kharbai,7,Hindi,42,No_Network_Zero,PreLoaded_Printed,10,0,0.0,0.0,0,0,0,0,0,Critical_Blocker
-BHP-RAI-036,Bhopal,Bhopal_School_4,8,Math,35,Good_4G,PreLoaded_Printed,10,10,104.97074313430542,88.40958485374813,0,0,0,0,0,Medium
-BHP-RAI-037,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10,10,78.53421837162848,135.41730387773933,0,1,0,1,1,High
-BHP-RAI-038,Bhopal,Bhopal_School_2,7,Math,42,Moderate_3G,PreLoaded_Printed,10,10,61.771816574339034,130.25209944752442,0,0,0,0,0,Medium
-BHP-RAI-039,Bhopal,Bhopal_School_3,6,Hindi,35,Good_4G,PreLoaded_Printed,10,10,67.68907464118278,128.0764111735861,0,0,0,0,0,Medium
-BHP-RAI-040,Bhopal,Bhopal_School_4,6,Math,42,Moderate_3G,PreLoaded_Printed,10,8,84.8805768856463,101.81684765829752,0,0,0,0,0,High
-BHP-RAI-041,Bhopal,Bhopal_School_1,7,Math,35,Moderate_3G,PreLoaded_Printed,10,10,70.95187597059943,100.42472568435386,0,0,0,0,0,Medium
-BHP-RAI-042,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10,10,94.95657844903624,159.9863441249961,0,0,0,0,0,Medium
-BHP-RAI-043,Bhopal,Bhopal_School_3,8,Math,42,Good_4G,PreLoaded_Printed,10,10,57.3332168776147,106.39476825612184,1,0,0,0,1,High
-BHP-RAI-044,Bhopal,Bhopal_School_4,7,Hindi,42,Moderate_3G,PreLoaded_Printed,10,9,77.70796262708147,172.87143166797102,0,0,0,0,0,Medium
-BHP-RAI-045,Bhopal,Bhopal_School_1,8,Hindi,42,Good_4G,PreLoaded_Printed,10,10,101.73245427804119,131.80549238123575,0,0,0,0,0,Medium
-BHP-RAI-046,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10,10,54.87832263300454,157.73656224248475,0,0,0,1,0,High
-BHP-RAI-047,Bhopal,Bhopal_School_3,6,Hindi,42,Good_4G,PreLoaded_Printed,10,10,113.0803665260623,130.47905334215588,0,0,0,0,0,Medium
-BHP-RAI-048,Bhopal,Bhopal_School_4,6,Math,30,Moderate_3G,PreLoaded_Printed,10,9,82.1297829031846,146.37677242181542,0,0,0,0,0,Medium
-BHP-RAI-049,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,51.66375036192557,64.307287104358,0,0,0,0,1,High
-BHP-RAI-050,Bhopal,Bhopal_School_2,8,Math,42,Good_4G,PreLoaded_Printed,10,8,74.90019818053143,93.6170990959611,0,0,0,0,0,Medium
-BHP-RAI-051,Bhopal,Bhopal_School_3,6,Math,30,Moderate_3G,PreLoaded_Printed,10,10,59.74211744181914,130.33338617296246,0,0,1,0,0,Medium
-BHP-RAI-052,Bhopal,Bhopal_School_4,6,Hindi,35,Good_4G,PreLoaded_Printed,10,10,54.90557252709313,122.97780455304448,0,0,0,0,0,High
-BHP-RAI-053,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,66.49255248096907,142.57777486093815,0,0,0,0,0,Medium
-BHP-RAI-054,Bhopal,Bhopal_School_2,6,Math,30,Moderate_3G,PreLoaded_Printed,10,10,64.30731325984253,122.12860455383793,0,0,0,0,0,Medium
-BHP-RAI-055,Bhopal,Bhopal_School_3,8,Hindi,35,Good_4G,PreLoaded_Printed,10,10,66.54350336815448,48.63589401280235,0,1,0,1,1,High
-BHP-RAI-056,Bhopal,Bhopal_School_4,6,Hindi,30,Good_4G,PreLoaded_Printed,10,8,62.57012945493308,138.43269436707695,0,0,0,0,0,Medium
-BHP-RAI-057,Bhopal,Bhopal_School_1,7,Hindi,30,Good_4G,PreLoaded_Printed,10,8,82.2797399484068,104.54665715453058,1,0,0,0,0,Medium
-BHP-RAI-058,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10,9,75.3835700461415,91.78298939188434,0,0,0,0,0,High
-BHP-RAI-059,Bhopal,Bhopal_School_3,6,Math,30,Moderate_3G,PreLoaded_Printed,10,9,56.66808286662082,134.25996860344776,0,0,0,0,0,Medium
-BHP-RAI-060,Bhopal,Bhopal_School_4,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,99.69595864019959,99.85821271387478,0,0,0,0,0,Medium
-BHP-RAI-061,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10,8,49.953312418973994,155.29373868525437,0,0,0,0,1,High
-BHP-RAI-062,Bhopal,Bhopal_School_2,8,Math,42,Good_4G,PreLoaded_Printed,10,9,94.7364976242324,84.93785906123568,0,0,0,0,0,Medium
-BHP-RAI-063,Bhopal,Bhopal_School_3,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,89.24574120893907,112.78025041488203,0,0,0,0,0,Medium
-BHP-RAI-064,Bhopal,Bhopal_School_4,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,89.57734035259104,119.38083498726853,0,0,0,1,0,High
-BHP-RAI-065,Bhopal,Bhopal_School_1,6,Hindi,42,Good_4G,PreLoaded_Printed,10,10,88.0461066034262,141.14249866712618,0,0,0,0,0,Medium
-BHP-RAI-066,Bhopal,Bhopal_School_2,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,75.27650899598089,126.95163410723342,0,0,0,0,0,Medium
-BHP-RAI-067,Bhopal,Bhopal_School_3,8,Math,42,Moderate_3G,PreLoaded_Printed,10,10,95.20118967961494,122.5358631936094,0,0,0,0,1,High
-BHP-RAI-068,Bhopal,Bhopal_School_4,7,Math,30,Moderate_3G,PreLoaded_Printed,10,10,67.96278419707598,130.5387482526358,0,0,0,0,0,Medium
-BHP-RAI-069,Bhopal,Bhopal_School_1,6,Math,30,Moderate_3G,PreLoaded_Printed,10,9,61.40131990471439,136.88884702058738,0,0,0,0,0,Medium
-BHP-RAI-070,Bhopal,Bhopal_School_2,6,Math,35,Good_4G,PreLoaded_Printed,10,10,47.38688653002532,94.40846066528597,0,0,0,0,0,High
-BHP-RAI-071,Bhopal,Bhopal_School_3,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,77.80150146715617,104.89234135293356,1,0,0,0,0,Medium
-BHP-RAI-072,Bhopal,Bhopal_School_4,6,Math,42,Moderate_3G,PreLoaded_Printed,10,9,60.36190120534001,141.0728359321568,0,0,0,0,0,Medium
-BHP-RAI-073,Bhopal,Bhopal_School_1,7,Math,42,Moderate_3G,PreLoaded_Printed,10,10,74.25287052260136,97.61770143946583,0,1,0,1,1,High
-BHP-RAI-074,Bhopal,Bhopal_School_2,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,74.91995293745005,106.82462348437286,0,0,0,0,0,Medium
-BHP-RAI-075,Bhopal,Bhopal_School_3,7,Math,35,Moderate_3G,PreLoaded_Printed,10,10,55.979677325353975,93.41708345676967,0,0,0,0,0,Medium
-BHP-RAI-076,Bhopal,Bhopal_School_4,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,89.78584075235345,108.11070903723557,0,0,1,0,0,High
-BHP-RAI-077,Bhopal,Bhopal_School_1,6,Hindi,30,Good_4G,PreLoaded_Printed,10,10,77.66551501399881,93.29311282579798,0,0,0,0,0,Medium
-BHP-RAI-078,Bhopal,Bhopal_School_2,8,Math,30,Good_4G,PreLoaded_Printed,10,10,87.50883231823356,129.18360158456875,0,0,0,0,0,Medium
-BHP-RAI-079,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,77.17406122171771,112.35033965083817,0,0,0,0,1,High
-BHP-RAI-080,Bhopal,Bhopal_School_4,8,Math,42,Moderate_3G,PreLoaded_Printed,10,10,45.71269690483976,114.4100186839992,0,0,0,0,0,Medium
-BHP-RAI-081,Bhopal,Bhopal_School_1,8,Math,42,Moderate_3G,PreLoaded_Printed,10,10,91.93604156302715,118.39168452582015,0,0,0,0,0,Medium
-BHP-RAI-082,Bhopal,Bhopal_School_2,7,Math,35,Good_4G,PreLoaded_Printed,10,10,55.88896522570015,148.28080922005537,0,0,0,1,0,High
-BHP-RAI-083,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,93.83634188360281,102.10785395560993,0,0,0,0,0,Medium
-BHP-RAI-084,Bhopal,Bhopal_School_4,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,93.4524197018572,136.72122102319048,0,0,0,0,0,Medium
-BHP-RAI-085,Bhopal,Bhopal_School_1,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,78.84242187650737,119.6023677942227,1,0,0,0,1,High
-BHP-RAI-086,Bhopal,Bhopal_School_2,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,93.34756425887186,106.33136419739753,0,0,0,0,0,Medium
-BHP-RAI-087,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,64.83436491562432,89.57510250822709,0,0,0,0,0,Medium
-BHP-RAI-088,Bhopal,Bhopal_School_4,8,Math,30,Moderate_3G,PreLoaded_Printed,10,10,74.86703966015433,117.30654491834804,0,0,0,0,0,High
-BHP-RAI-089,Bhopal,Bhopal_School_1,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10,9,74.47972668919829,124.68429465073041,0,0,0,0,0,Medium
-BHP-RAI-090,Bhopal,Bhopal_School_2,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,72.51415420280077,103.48830313965078,0,0,0,0,0,Medium
-BHP-RAI-091,Bhopal,Bhopal_School_3,7,Hindi,42,Good_4G,PreLoaded_Printed,10,10,72.76216260361922,106.81173177097995,0,1,0,1,1,High
-BHP-RAI-092,Bhopal,Bhopal_School_4,7,Math,42,Good_4G,PreLoaded_Printed,10,10,65.43390023623026,109.38006089996365,0,0,0,0,0,Medium
-BHP-RAI-093,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,82.72909279480149,143.88363925102138,0,0,0,0,0,Medium
-BHP-RAI-094,Bhopal,Bhopal_School_2,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,76.63003246601026,85.82464721640841,0,0,0,0,0,High
-BHP-RAI-095,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,64.42183895505329,105.92759874147107,0,0,0,0,0,Medium
-BHP-RAI-096,Bhopal,Bhopal_School_4,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,41.31499201509246,102.43257625814431,0,0,0,0,0,Medium
-BHP-RAI-097,Bhopal,Bhopal_School_1,6,Math,42,Moderate_3G,PreLoaded_Printed,10,10,79.28798086087357,126.6891357997405,0,0,0,0,1,High
-BHP-RAI-098,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10,9,71.46814916692959,122.04257841742067,0,0,0,0,0,Medium
-BHP-RAI-099,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,75.64907542116435,140.6094684087166,1,0,0,0,0,Medium
-BHP-RAI-100,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10,10,81.14120126803695,132.75946540301547,0,0,0,1,0,High
-BHP-RAI-101,Bhopal,Bhopal_School_1,6,Math,42,Moderate_3G,PreLoaded_Printed,10,9,57.4665560138742,105.14971298286119,0,0,1,0,0,Medium
-BHP-RAI-102,Bhopal,Bhopal_School_2,8,Math,35,Good_4G,PreLoaded_Printed,10,9,90.60308892335493,118.10493252843195,0,0,0,0,0,Medium
-BHP-RAI-103,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10,10,62.838361201605224,137.24526049593757,0,0,0,0,1,High
-BHP-RAI-104,Bhopal,Bhopal_School_4,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,54.60215788530121,134.92507132054442,0,0,0,0,0,Medium
-BHP-RAI-105,Bhopal,Bhopal_School_1,6,Math,35,Good_4G,PreLoaded_Printed,10,9,74.303694438879,113.40170529733052,0,0,0,0,0,Medium
-BHP-RAI-106,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10,8,77.63318744835762,128.17024696754854,0,0,0,0,0,High
-BHP-RAI-107,Bhopal,Bhopal_School_3,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,71.49013999646753,156.93612080173938,0,0,0,0,0,Medium
-BHP-RAI-108,Bhopal,Bhopal_School_4,8,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,66.20177867217986,158.2160917691757,0,0,0,0,0,Medium
-BHP-RAI-109,Bhopal,Bhopal_School_1,6,Hindi,42,Good_4G,PreLoaded_Printed,10,8,68.26254286836655,142.53506383852405,0,1,0,1,1,High
-BHP-RAI-110,Bhopal,Bhopal_School_2,8,Hindi,42,Good_4G,PreLoaded_Printed,10,10,53.279791493756335,76.02388086759836,0,0,0,0,0,Medium
-BHP-RAI-111,Bhopal,Bhopal_School_3,8,Math,30,Moderate_3G,PreLoaded_Printed,10,9,81.95585786085648,131.5563378176228,0,0,0,0,0,Medium
-BHP-RAI-112,Bhopal,Bhopal_School_4,8,Math,42,Moderate_3G,PreLoaded_Printed,10,10,71.66380832316652,97.06082742533121,0,0,0,0,0,High
-BHP-RAI-113,Bhopal,Bhopal_School_1,6,Math,35,Good_4G,PreLoaded_Printed,10,10,47.29841348292898,108.66661174979788,1,0,0,0,0,Medium
-BHP-RAI-114,Bhopal,Bhopal_School_2,7,Math,35,Moderate_3G,PreLoaded_Printed,10,9,76.11309320700234,115.41194794539295,0,0,0,0,0,Medium
-BHP-RAI-115,Bhopal,Bhopal_School_3,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,79.04504036095607,115.39887128807234,0,0,0,0,1,High
-BHP-RAI-116,Bhopal,Bhopal_School_4,8,Math,35,Good_4G,PreLoaded_Printed,10,10,82.70752789598319,114.86379383161933,0,0,0,0,0,Medium
-BHP-RAI-117,Bhopal,Bhopal_School_1,7,Math,30,Good_4G,PreLoaded_Printed,10,8,99.5716912432146,150.0207768000892,0,0,0,0,0,Medium
-BHP-RAI-118,Bhopal,Bhopal_School_2,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10,9,55.10317808319803,143.0916856371874,0,0,0,1,0,High
-BHP-RAI-119,Bhopal,Bhopal_School_3,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,8,104.44233951068188,112.29879476280988,0,0,0,0,0,Medium
-BHP-RAI-120,Bhopal,Bhopal_School_4,8,Math,35,Moderate_3G,PreLoaded_Printed,10,9,86.78700237976248,128.5091512356993,0,0,0,0,0,Medium
-BHP-RAI-121,Bhopal,Bhopal_School_1,8,Hindi,42,Good_4G,PreLoaded_Printed,10,8,74.94596191364147,96.83270621614915,0,0,0,0,1,High
-BHP-RAI-122,Bhopal,Bhopal_School_2,6,Hindi,35,Good_4G,PreLoaded_Printed,10,9,61.85521998038728,120.75320466335876,0,0,0,0,0,Medium
-BHP-RAI-123,Bhopal,Bhopal_School_3,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,77.93115427494949,98.74734445167798,0,0,0,0,0,Medium
-BHP-RAI-124,Bhopal,Bhopal_School_4,7,Math,35,Good_4G,PreLoaded_Printed,10,8,80.27836601859654,122.65561396528311,0,0,0,0,0,High
-BHP-RAI-125,Bhopal,Bhopal_School_1,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,75.89445554880261,107.06126444588853,0,0,0,0,0,Medium
-BHP-RAI-126,Bhopal,Bhopal_School_2,7,Hindi,35,Good_4G,PreLoaded_Printed,10,10,69.96881784458714,168.26787830234272,0,0,1,0,0,Medium
-BHP-RAI-127,Bhopal,Bhopal_School_3,7,Hindi,35,Good_4G,PreLoaded_Printed,10,10,81.02015440537184,163.65014048354175,1,1,0,1,1,High
-BHP-RAI-128,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10,10,70.5254475817283,163.27312998449474,0,0,0,0,0,Medium
-BHP-RAI-129,Bhopal,Bhopal_School_1,8,Math,35,Good_4G,PreLoaded_Printed,10,9,82.8425323205325,108.52599992122842,0,0,0,0,0,Medium
-BHP-RAI-130,Bhopal,Bhopal_School_2,8,Hindi,35,Good_4G,PreLoaded_Printed,10,8,55.33168484737327,143.96889905663372,0,0,0,0,0,High
-BHP-RAI-131,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10,10,68.81530321897708,91.76078046911498,0,0,0,0,0,Medium
-BHP-RAI-132,Bhopal,Bhopal_School_4,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,88.99318626492932,137.46317097238298,0,0,0,0,0,Medium
-BHP-RAI-133,Bhopal,Bhopal_School_1,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,51.57289707906793,160.03474205060272,0,0,0,0,1,High
-BHP-RAI-134,Bhopal,Bhopal_School_2,7,Math,35,Good_4G,PreLoaded_Printed,10,10,61.67683866829128,92.73920682897757,0,0,0,0,0,Medium
-BHP-RAI-135,Bhopal,Bhopal_School_3,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,81.0243825823721,106.28779437836384,0,0,0,0,0,Medium
-BHP-RAI-136,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10,10,79.85700191408918,114.1702004201302,0,0,0,1,0,High
-BHP-RAI-137,Bhopal,Bhopal_School_1,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,41.48360336528696,124.70399657709402,0,0,0,0,0,Medium
-BHP-RAI-138,Bhopal,Bhopal_School_2,7,Math,42,Moderate_3G,PreLoaded_Printed,10,9,90.70513761964972,114.09475534584621,0,0,0,0,0,Medium
-BHP-RAI-139,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10,9,81.49717153847863,114.00981723655585,0,0,0,0,1,High
-BHP-RAI-140,Bhopal,Bhopal_School_4,7,Math,35,Moderate_3G,PreLoaded_Printed,10,10,72.5479899494669,97.09645151929239,0,0,0,0,0,Medium
-BHP-RAI-141,Bhopal,Bhopal_School_1,6,Math,35,Moderate_3G,PreLoaded_Printed,10,9,70.17547423173926,161.53495967121682,1,0,0,0,0,Medium
-BHP-RAI-142,Bhopal,Bhopal_School_2,8,Math,35,Good_4G,PreLoaded_Printed,10,9,70.09678830480523,108.98103771069145,0,0,0,0,0,High
-BHP-RAI-143,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10,8,73.03626040845376,99.30090270935735,0,0,0,0,0,Medium
-BHP-RAI-144,Bhopal,Bhopal_School_4,6,Math,30,Good_4G,PreLoaded_Printed,10,10,61.78339275710308,152.31917006677486,0,0,0,0,0,Medium
-BHP-RAI-145,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10,10,88.74491512053723,126.92976951795985,0,1,0,1,1,High
-BHP-RAI-146,Bhopal,Bhopal_School_2,8,Math,35,Moderate_3G,PreLoaded_Printed,10,9,59.016544127024616,121.83611549161347,0,0,0,0,0,Medium
-BHP-RAI-147,Bhopal,Bhopal_School_3,7,Hindi,42,Moderate_3G,PreLoaded_Printed,10,9,83.99991311887256,103.7985383158102,0,0,0,0,0,Medium
-BHP-RAI-148,Bhopal,Bhopal_School_4,7,Math,42,Moderate_3G,PreLoaded_Printed,10,9,88.05101596033131,129.9136377594521,0,0,0,0,0,High
-BHP-RAI-149,Bhopal,Bhopal_School_1,7,Hindi,35,Good_4G,PreLoaded_Printed,10,9,77.75656701934562,123.33539239193036,0,0,0,0,0,Medium
-BHP-RAI-150,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10,10,58.85009237733502,133.3681592188473,0,0,0,0,0,Medium
-BHP-RAI-151,Bhopal,Bhopal_School_3,6,Hindi,30,Good_4G,PreLoaded_Printed,10,10,60.14960645540607,111.19985218009195,0,0,1,0,1,High
-BHP-RAI-152,Bhopal,Bhopal_School_4,8,Math,30,Good_4G,PreLoaded_Printed,10,10,79.8203582317541,128.4384150847057,0,0,0,0,0,Medium
-BHP-RAI-153,Bhopal,Bhopal_School_1,6,Math,35,Moderate_3G,PreLoaded_Printed,10,10,92.8420573338696,95.44784369726015,0,0,0,0,0,Medium
-BHP-RAI-154,Bhopal,Bhopal_School_2,7,Math,30,Good_4G,PreLoaded_Printed,10,9,70.2066485652138,138.96353650724603,0,0,0,1,0,High
-BHP-RAI-155,Bhopal,Bhopal_School_3,8,Math,30,Moderate_3G,PreLoaded_Printed,10,9,55.82966124845436,87.12518568823884,1,0,0,0,0,Medium
-BHP-RAI-156,Bhopal,Bhopal_School_4,6,Math,30,Good_4G,PreLoaded_Printed,10,9,55.60282014530763,107.98052073993279,0,0,0,0,0,Medium
-BHP-RAI-157,Bhopal,Bhopal_School_1,8,Hindi,35,Moderate_3G,PreLoaded_Printed,10,10,75.04173556382368,152.40859290208147,0,0,0,0,1,High
-BHP-RAI-158,Bhopal,Bhopal_School_2,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10,10,50.539899488771034,123.41941943136439,0,0,0,0,0,Medium
-BHP-RAI-159,Bhopal,Bhopal_School_3,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10,10,71.20971467998554,127.8416905940174,0,0,0,0,0,Medium
-BHP-RAI-160,Bhopal,Bhopal_School_4,8,Hindi,30,Good_4G,PreLoaded_Printed,10,10,67.99777581315327,111.45350634863658,0,0,0,0,0,High
+student_id,district,school,grade,subject,class_size,network_quality,paper_type,questions_count,questions_detected,process_time_sec,review_time_sec,has_digit_ocr_error,has_mcq_error,has_corrected_pencil_error,session_code_lost,dashboard_cap_impacted,risk_tier,questions_in_paper,ocr_digit_errors,crop_top_clip,crop_bottom_clip,rigid_scoring_reject,unattempted_marked_correct
+KAT-PUR-01,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,21.66435964585924,201.37804369378767,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+KAT-PUR-02,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,29.737638446522176,210.34869458305815,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-03,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,23.257365597929454,184.49660385643705,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+KAT-PUR-04,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,25.725886814698104,156.73439510684403,1.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-05,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,27.449335242853984,164.5224800476828,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-06,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,22.27592777343637,166.75392597329417,0.0,1.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-07,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,23.111575117227247,206.95440933825216,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-08,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,23.36685182642445,197.2184517941973,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-09,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,23.199238449682262,213.9487964209328,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+KAT-PUR-10,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,23.194880163311808,232.0455636901788,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-11,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,23.39905358847254,194.88944275359748,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+KAT-PUR-12,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,27.467634736309567,170.58312700057957,1.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-13,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,33.334939124657325,218.87279448564635,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-14,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,27.215399739986232,198.4273656237994,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-15,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,21.972743971404675,163.33411572926224,0.0,1.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-16,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,23.61808368712064,216.1424445243783,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-17,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,21.608343085955298,197.68857765256044,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-18,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,22.969233999082125,207.23352577681732,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-19,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,26.74636838413912,212.75496919186716,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-20,Katni,EPES Purwar,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,22.482347430332084,188.8157524829757,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-PUR-21,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,20.47554013135755,216.9929395156964,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+KAT-PUR-22,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,8,21.680995077981915,171.0758675183866,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-23,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,27.504386257691284,200.9312276865794,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-24,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,9,26.084908075142906,182.0976049078975,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-25,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,29.48630275865042,201.7636250398664,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-26,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,9,17.140764687730766,211.43805008750448,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-27,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,8,20.74374862422579,215.8498323467884,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-28,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,24.340984336487463,202.1422514302349,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-29,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,9,22.63222501390624,209.87422567542453,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-30,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,8,22.57451919132044,184.96485912830929,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-PUR-31,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,26.504344994574417,218.16373305864056,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-PUR-32,Katni,EPES Purwar,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,23.410719388698883,205.26534866226712,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-01,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,33.4874485341991,214.3888323488708,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+KAT-DEV-02,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,25.19178762449059,201.8084463350558,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+KAT-DEV-03,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,33.09493448055822,202.7011832293595,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-04,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.020453826569845,204.1353216656213,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-05,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,9,26.41793419367883,202.77157858825143,1.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-06,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,27.354857153335963,220.10127142036345,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-07,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,9,24.22777276613095,245.09896846648235,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-08,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,20.324915138803835,209.3371531137696,0.0,1.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-09,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,28.409390730198663,199.18476798629968,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+KAT-DEV-10,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,9,27.23055614087551,217.53868355834032,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-11,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,7,29.359283856746572,209.81549625138567,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-12,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,32.571291258060086,228.7983258171693,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-13,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,24.792688626601223,244.60039297331696,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-14,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,30.34742837520108,264.76139064524943,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-15,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,7,26.02627007118669,233.07906520854883,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+KAT-DEV-16,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,28.398605460350566,197.41310864709504,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+KAT-DEV-17,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.036577382960548,200.86151757918643,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-18,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,23.75078514509558,221.83981076587955,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-19,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,30.48219286384694,205.97656557842345,1.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-20,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,7,24.86698683065505,201.9484620948581,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-21,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,26.573019896927224,223.90304496334917,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-22,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.90983973841652,242.6785688570607,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-23,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,9,26.702036168684423,204.8533320726124,0.0,1.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-24,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,29.03953117699369,229.5455717944328,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-25,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,8,33.19758725705795,188.3213460987612,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-26,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,29.001971401383507,218.6612052374244,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-27,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.9051530779955,231.185035814416,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-28,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,7,29.172289893194726,192.1412145493408,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-29,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,7,28.69933204796589,179.57862769101902,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-30,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,23.234786011189406,226.4138402158457,0.0,0.0,1.0,0.0,1.0,High,,,,,,
+KAT-DEV-31,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,24.99528230134429,181.73929867198677,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-32,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,31.85350451697729,220.31952317341245,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-33,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,24.5294356400825,213.64654631070772,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-34,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,9,24.44194228149791,189.60474287586405,1.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-35,Katni,MS Devri Hatai,6,Math,45,Moderate_3G,PreLoaded_Printed,10.0,10,31.51469419276358,204.01013729515475,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-36,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.052007567511627,246.33835192893287,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-37,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,9,22.374378931273803,209.13675859762975,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-38,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,23.71643000775555,222.0618103810796,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-39,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,27.50347044447336,228.50852044869347,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-40,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,24.61282512772638,172.12881938285338,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-41,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,24.295813523154088,197.17586705910944,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-42,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,9,28.692723703404727,219.6329344932209,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-43,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,9,28.92381489178053,189.77657771524096,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-44,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,28.232834873784,181.42574255423443,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-45,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,31.48978863064181,236.65496360244344,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-46,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,22.489322528171638,186.55437400212196,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-47,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,29.21779647948341,216.43018727450263,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-48,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,30.06019074522419,306.31828726636803,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-49,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,33.32352531188834,234.7050652626028,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-50,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,26.738923021438616,228.9742305123317,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-51,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,9,28.660091192437356,188.6017770542658,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-52,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,7,37.25863426669403,163.3183701852063,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-53,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,8,26.341872778440436,212.00496781352035,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-54,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,7,26.112272536842266,237.2237649241841,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-55,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,7,34.24152056453151,213.21377500177704,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-56,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,8,25.07853347313145,215.41146473954936,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-57,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,7,37.55614382956985,256.0853439580133,0.0,0.0,0.0,1.0,1.0,High,,,,,,
+KAT-DEV-58,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,19.899429653369573,214.6613578692357,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+KAT-DEV-59,Katni,MS Devri Hatai,6,Hindi,45,Moderate_3G,PreLoaded_Printed,10.0,10,26.22200502312327,168.27169102273672,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+IND-NAN-01,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,23.009974557960916,102.9863279125518,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-02,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.331505817699263,85.23229640234125,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-03,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,25.530908480562196,96.07472566441432,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-04,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,22.754592530920817,114.77026479719235,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-05,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,18.96126006809197,82.73648890700623,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-06,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,21.525216077586663,118.08008520708457,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-07,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,15.517465319861856,74.63418537998565,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-08,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,18.0100768568847,70.4971073760984,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-09,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.119911026606037,91.96110865929136,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-10,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,22.11701780461369,125.21995392675484,0.0,1.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-11,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,20.036982697904097,96.93155211394908,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-12,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,21.595084948336897,90.9134491067574,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-13,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,22.227034690502496,99.9319601178157,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-14,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,20.76973264445734,121.66976462424378,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-15,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.696429809928837,98.82475809726864,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-16,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.02713446789528,93.1139739192858,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-17,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,20.821270486111576,102.74403145531537,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-18,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,23.90402218769339,111.78825371193555,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-19,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,23.62572423767792,99.4444326288542,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-20,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,23.10347402093015,79.34808063108774,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-21,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.958196812071705,91.75991074963171,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-22,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,20.661594543637573,107.42905976620162,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-23,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.56463759354556,106.48165277980786,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-24,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,21.18416929445741,93.924345839587,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-25,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,24.61095761430866,90.3150576244914,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-26,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,9,21.52155040426049,102.80962066601784,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-27,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,8,22.648332704976884,88.04785418448473,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-28,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,25.824635279679946,105.97840623820376,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-29,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,19.987965237000594,71.78717080818402,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-30,Indore,Nandbag,6,Math,38,Good_4G,PreLoaded_Printed,10.0,10,23.541356659046222,100.00584155204687,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-31,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,21.97550645430617,76.54118442771252,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-32,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,17.81996450273944,116.55647274850078,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-33,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,20.349005606414977,85.1792123752051,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-34,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,23.22768268295085,110.36821182149984,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-35,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,22.48993314221745,82.39585236943306,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-36,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,23.11821840522905,103.0881238714572,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-37,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,19.10383131700535,68.88804338435168,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-38,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,20.671545113391154,110.40167049372258,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-39,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,8,22.62181513119601,112.13034325424329,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-40,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,21.395351515847384,89.93155756514555,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-41,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,22.645437120676178,77.59153584671516,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-42,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,22.98537296760081,91.33309509197616,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-43,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,9,23.380287983422225,83.98169292171245,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-44,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,9,22.13930532903776,104.75256459537698,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-45,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,22.195352197097662,78.404853242168,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-46,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,26.551522595134408,96.09340027574892,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-47,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,26.306364915023117,78.48978655667926,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-48,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,21.77813612874098,104.64463689721654,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-49,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,20.32055631563845,81.00911031833967,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-NAN-50,Indore,Nandbag,6,Hindi,38,Good_4G,PreLoaded_Printed,10.0,10,24.065200808035957,62.84803012505976,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-01,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,25.02526792733148,138.77107510588596,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-02,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,25.714042530980365,122.4694287602378,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+IND-SUB-03,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,20.039300378938076,137.96625778537836,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+IND-SUB-04,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,23.77916665262428,99.9200185982302,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+IND-SUB-05,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,18.860596412727368,129.36970273497744,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+IND-SUB-06,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,24.826905473662222,110.0170146294719,1.0,0.0,0.0,0.0,0.0,High,,,,,,
+IND-SUB-07,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,19.216717023616894,94.21124958683208,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-08,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,24.77816792699908,110.44226922596955,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-09,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,24.01573109915455,105.84565068776536,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-10,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,23.06092887535068,76.21577749432532,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-11,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,24.360886895135696,114.25989901305748,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-12,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,27.181340442331404,132.7446779445273,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-13,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,24.996942035938776,91.52724234198205,0.0,1.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-14,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,9,24.344584404641687,132.9227313851935,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-15,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,30.18224377464596,136.5961351639777,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-16,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,20.93885025821353,100.15630011727887,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-17,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,25.936127848755444,129.63536803558227,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-18,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,22.69904901968446,98.83844450476082,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-19,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,27.17527346054876,73.34268924438395,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-20,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,26.65819068073846,102.53259922124664,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-21,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,28.507071156288085,106.33370604755596,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-22,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,26.944642130190243,110.95261002715075,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-23,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,18.88985268193453,104.00014141986088,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-24,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,23.981402580978383,112.2561478875404,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-25,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,20.08659149848544,117.05410587894067,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-26,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,20.696244285458665,113.7781189486193,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-27,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,8,23.811962708180484,122.19256176902228,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-28,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,10,22.659949587928,96.43791573656516,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-29,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,22.40922714488268,90.7282890192778,0.0,1.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-30,Indore,Subhash Nagar MS 108,8,Math,40,Good_4G,PreLoaded_Printed,10.0,7,19.69773339230243,101.55240916956072,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-31,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,8,29.89417539874917,105.63474393549112,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-32,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,25.54376697207162,126.68343130636484,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-33,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,23.66301585092751,101.022547208402,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-34,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,10,21.79076348322706,115.43107922789736,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-35,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,23.17484490854507,63.56541903475947,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-36,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,10,22.12042745193437,65.54165898764438,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-37,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,10,25.7296708891673,110.60250278178366,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-38,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,9,21.083194356827786,106.4306841327157,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-39,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,8,19.18066103922728,108.66234544561,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-40,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,23.43928463231877,104.13976420727631,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-41,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,8,22.060281347272426,85.5321359349409,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-42,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,24.65466819759329,121.39015420267944,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-43,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,10,23.976082076050147,131.63899450002046,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-44,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,31.122988210477164,123.26158846837136,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-45,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,10,20.888261537020632,101.57390379449504,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-46,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,28.18719580778569,81.42631277978583,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-47,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,9,19.804297278542577,115.13344626043028,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-48,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,22.62567029150587,93.7321272554208,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-49,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,22.222818227283398,89.44816614576331,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+IND-SUB-50,Indore,Subhash Nagar MS 108,8,Hindi,40,Good_4G,PreLoaded_Printed,10.0,7,16.491721435013353,117.32355962799303,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-036,Bhopal,Bhopal_School_4,8,Math,35,Good_4G,PreLoaded_Printed,10.0,10,104.97074313430542,88.40958485374813,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-037,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,78.53421837162848,135.41730387773933,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-038,Bhopal,Bhopal_School_2,7,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,61.77181657433904,130.25209944752442,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-039,Bhopal,Bhopal_School_3,6,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,67.68907464118278,128.0764111735861,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-040,Bhopal,Bhopal_School_4,6,Math,42,Moderate_3G,PreLoaded_Printed,10.0,8,84.8805768856463,101.81684765829752,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-041,Bhopal,Bhopal_School_1,7,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,70.95187597059943,100.42472568435386,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-042,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10.0,10,94.95657844903624,159.9863441249961,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-043,Bhopal,Bhopal_School_3,8,Math,42,Good_4G,PreLoaded_Printed,10.0,10,57.3332168776147,106.39476825612184,1.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-044,Bhopal,Bhopal_School_4,7,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,9,77.70796262708147,172.87143166797102,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-045,Bhopal,Bhopal_School_1,8,Hindi,42,Good_4G,PreLoaded_Printed,10.0,10,101.7324542780412,131.80549238123575,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-046,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10.0,10,54.87832263300454,157.73656224248475,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-047,Bhopal,Bhopal_School_3,6,Hindi,42,Good_4G,PreLoaded_Printed,10.0,10,113.0803665260623,130.47905334215588,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-048,Bhopal,Bhopal_School_4,6,Math,30,Moderate_3G,PreLoaded_Printed,10.0,9,82.1297829031846,146.37677242181542,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-049,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,51.66375036192557,64.307287104358,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-050,Bhopal,Bhopal_School_2,8,Math,42,Good_4G,PreLoaded_Printed,10.0,8,74.90019818053143,93.6170990959611,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-051,Bhopal,Bhopal_School_3,6,Math,30,Moderate_3G,PreLoaded_Printed,10.0,10,59.74211744181914,130.33338617296246,0.0,0.0,1.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-052,Bhopal,Bhopal_School_4,6,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,54.90557252709313,122.97780455304448,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-053,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,66.49255248096907,142.57777486093815,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-054,Bhopal,Bhopal_School_2,6,Math,30,Moderate_3G,PreLoaded_Printed,10.0,10,64.30731325984253,122.12860455383792,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-055,Bhopal,Bhopal_School_3,8,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,66.54350336815448,48.63589401280235,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-056,Bhopal,Bhopal_School_4,6,Hindi,30,Good_4G,PreLoaded_Printed,10.0,8,62.57012945493308,138.43269436707695,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-057,Bhopal,Bhopal_School_1,7,Hindi,30,Good_4G,PreLoaded_Printed,10.0,8,82.2797399484068,104.54665715453058,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-058,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10.0,9,75.3835700461415,91.78298939188434,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-059,Bhopal,Bhopal_School_3,6,Math,30,Moderate_3G,PreLoaded_Printed,10.0,9,56.66808286662082,134.25996860344776,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-060,Bhopal,Bhopal_School_4,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,99.6959586401996,99.85821271387478,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-061,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,49.953312418974,155.29373868525437,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-062,Bhopal,Bhopal_School_2,8,Math,42,Good_4G,PreLoaded_Printed,10.0,9,94.7364976242324,84.93785906123568,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-063,Bhopal,Bhopal_School_3,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,89.24574120893907,112.78025041488203,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-064,Bhopal,Bhopal_School_4,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,89.57734035259104,119.38083498726851,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-065,Bhopal,Bhopal_School_1,6,Hindi,42,Good_4G,PreLoaded_Printed,10.0,10,88.0461066034262,141.14249866712618,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-066,Bhopal,Bhopal_School_2,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,75.27650899598089,126.95163410723342,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-067,Bhopal,Bhopal_School_3,8,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,95.20118967961494,122.5358631936094,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-068,Bhopal,Bhopal_School_4,7,Math,30,Moderate_3G,PreLoaded_Printed,10.0,10,67.96278419707598,130.5387482526358,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-069,Bhopal,Bhopal_School_1,6,Math,30,Moderate_3G,PreLoaded_Printed,10.0,9,61.40131990471439,136.88884702058738,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-070,Bhopal,Bhopal_School_2,6,Math,35,Good_4G,PreLoaded_Printed,10.0,10,47.38688653002532,94.40846066528596,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-071,Bhopal,Bhopal_School_3,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,77.80150146715617,104.89234135293356,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-072,Bhopal,Bhopal_School_4,6,Math,42,Moderate_3G,PreLoaded_Printed,10.0,9,60.36190120534001,141.0728359321568,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-073,Bhopal,Bhopal_School_1,7,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,74.25287052260136,97.61770143946585,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-074,Bhopal,Bhopal_School_2,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,74.91995293745005,106.82462348437286,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-075,Bhopal,Bhopal_School_3,7,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,55.979677325353975,93.41708345676967,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-076,Bhopal,Bhopal_School_4,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,89.78584075235345,108.11070903723557,0.0,0.0,1.0,0.0,0.0,High,,,,,,
+BHP-RAI-077,Bhopal,Bhopal_School_1,6,Hindi,30,Good_4G,PreLoaded_Printed,10.0,10,77.66551501399881,93.29311282579798,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-078,Bhopal,Bhopal_School_2,8,Math,30,Good_4G,PreLoaded_Printed,10.0,10,87.50883231823356,129.18360158456875,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-079,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,77.17406122171771,112.35033965083817,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-080,Bhopal,Bhopal_School_4,8,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,45.71269690483976,114.4100186839992,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-081,Bhopal,Bhopal_School_1,8,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,91.93604156302716,118.39168452582015,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-082,Bhopal,Bhopal_School_2,7,Math,35,Good_4G,PreLoaded_Printed,10.0,10,55.88896522570015,148.28080922005535,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-083,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,93.8363418836028,102.10785395560993,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-084,Bhopal,Bhopal_School_4,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,93.4524197018572,136.72122102319048,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-085,Bhopal,Bhopal_School_1,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,78.84242187650737,119.6023677942227,1.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-086,Bhopal,Bhopal_School_2,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,93.34756425887186,106.33136419739752,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-087,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,64.83436491562432,89.57510250822709,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-088,Bhopal,Bhopal_School_4,8,Math,30,Moderate_3G,PreLoaded_Printed,10.0,10,74.86703966015433,117.30654491834804,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-089,Bhopal,Bhopal_School_1,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,9,74.47972668919829,124.6842946507304,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-090,Bhopal,Bhopal_School_2,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,72.51415420280077,103.48830313965078,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-091,Bhopal,Bhopal_School_3,7,Hindi,42,Good_4G,PreLoaded_Printed,10.0,10,72.76216260361922,106.81173177097996,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-092,Bhopal,Bhopal_School_4,7,Math,42,Good_4G,PreLoaded_Printed,10.0,10,65.43390023623026,109.38006089996364,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-093,Bhopal,Bhopal_School_1,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,82.72909279480149,143.88363925102138,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-094,Bhopal,Bhopal_School_2,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,76.63003246601026,85.82464721640841,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-095,Bhopal,Bhopal_School_3,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,64.42183895505329,105.92759874147109,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-096,Bhopal,Bhopal_School_4,6,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,41.31499201509246,102.43257625814432,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-097,Bhopal,Bhopal_School_1,6,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,79.28798086087357,126.6891357997405,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-098,Bhopal,Bhopal_School_2,6,Math,42,Good_4G,PreLoaded_Printed,10.0,9,71.46814916692959,122.04257841742069,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-099,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,75.64907542116435,140.6094684087166,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-100,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,81.14120126803695,132.75946540301547,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-101,Bhopal,Bhopal_School_1,6,Math,42,Moderate_3G,PreLoaded_Printed,10.0,9,57.4665560138742,105.1497129828612,0.0,0.0,1.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-102,Bhopal,Bhopal_School_2,8,Math,35,Good_4G,PreLoaded_Printed,10.0,9,90.60308892335492,118.10493252843196,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-103,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,62.83836120160522,137.24526049593757,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-104,Bhopal,Bhopal_School_4,6,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,54.60215788530121,134.92507132054442,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-105,Bhopal,Bhopal_School_1,6,Math,35,Good_4G,PreLoaded_Printed,10.0,9,74.303694438879,113.40170529733052,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-106,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10.0,8,77.63318744835762,128.17024696754854,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-107,Bhopal,Bhopal_School_3,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,71.49013999646753,156.93612080173938,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-108,Bhopal,Bhopal_School_4,8,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,66.20177867217986,158.2160917691757,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-109,Bhopal,Bhopal_School_1,6,Hindi,42,Good_4G,PreLoaded_Printed,10.0,8,68.26254286836655,142.53506383852405,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-110,Bhopal,Bhopal_School_2,8,Hindi,42,Good_4G,PreLoaded_Printed,10.0,10,53.279791493756335,76.02388086759836,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-111,Bhopal,Bhopal_School_3,8,Math,30,Moderate_3G,PreLoaded_Printed,10.0,9,81.95585786085648,131.5563378176228,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-112,Bhopal,Bhopal_School_4,8,Math,42,Moderate_3G,PreLoaded_Printed,10.0,10,71.66380832316652,97.0608274253312,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-113,Bhopal,Bhopal_School_1,6,Math,35,Good_4G,PreLoaded_Printed,10.0,10,47.29841348292898,108.66661174979788,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-114,Bhopal,Bhopal_School_2,7,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,76.11309320700234,115.41194794539297,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-115,Bhopal,Bhopal_School_3,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,79.04504036095607,115.39887128807234,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-116,Bhopal,Bhopal_School_4,8,Math,35,Good_4G,PreLoaded_Printed,10.0,10,82.70752789598319,114.86379383161932,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-117,Bhopal,Bhopal_School_1,7,Math,30,Good_4G,PreLoaded_Printed,10.0,8,99.5716912432146,150.0207768000892,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-118,Bhopal,Bhopal_School_2,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,9,55.10317808319803,143.0916856371874,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-119,Bhopal,Bhopal_School_3,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,8,104.44233951068188,112.29879476280988,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-120,Bhopal,Bhopal_School_4,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,86.78700237976248,128.5091512356993,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-121,Bhopal,Bhopal_School_1,8,Hindi,42,Good_4G,PreLoaded_Printed,10.0,8,74.94596191364147,96.83270621614916,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-122,Bhopal,Bhopal_School_2,6,Hindi,35,Good_4G,PreLoaded_Printed,10.0,9,61.85521998038728,120.75320466335876,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-123,Bhopal,Bhopal_School_3,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,77.93115427494949,98.74734445167798,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-124,Bhopal,Bhopal_School_4,7,Math,35,Good_4G,PreLoaded_Printed,10.0,8,80.27836601859654,122.65561396528312,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-125,Bhopal,Bhopal_School_1,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,75.89445554880261,107.06126444588853,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-126,Bhopal,Bhopal_School_2,7,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,69.96881784458714,168.26787830234272,0.0,0.0,1.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-127,Bhopal,Bhopal_School_3,7,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,81.02015440537184,163.65014048354175,1.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-128,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,70.5254475817283,163.27312998449474,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-129,Bhopal,Bhopal_School_1,8,Math,35,Good_4G,PreLoaded_Printed,10.0,9,82.8425323205325,108.52599992122842,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-130,Bhopal,Bhopal_School_2,8,Hindi,35,Good_4G,PreLoaded_Printed,10.0,8,55.33168484737327,143.96889905663372,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-131,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,68.81530321897708,91.76078046911498,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-132,Bhopal,Bhopal_School_4,8,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,88.99318626492932,137.46317097238298,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-133,Bhopal,Bhopal_School_1,7,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,51.57289707906793,160.03474205060272,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-134,Bhopal,Bhopal_School_2,7,Math,35,Good_4G,PreLoaded_Printed,10.0,10,61.67683866829128,92.73920682897756,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-135,Bhopal,Bhopal_School_3,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,81.0243825823721,106.28779437836384,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-136,Bhopal,Bhopal_School_4,8,Hindi,35,Good_4G,PreLoaded_Printed,10.0,10,79.85700191408918,114.1702004201302,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-137,Bhopal,Bhopal_School_1,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,41.48360336528696,124.70399657709402,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-138,Bhopal,Bhopal_School_2,7,Math,42,Moderate_3G,PreLoaded_Printed,10.0,9,90.70513761964972,114.0947553458462,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-139,Bhopal,Bhopal_School_3,6,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,9,81.49717153847863,114.00981723655585,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-140,Bhopal,Bhopal_School_4,7,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,72.5479899494669,97.0964515192924,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-141,Bhopal,Bhopal_School_1,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,70.17547423173926,161.53495967121682,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-142,Bhopal,Bhopal_School_2,8,Math,35,Good_4G,PreLoaded_Printed,10.0,9,70.09678830480523,108.98103771069144,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-143,Bhopal,Bhopal_School_3,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,8,73.03626040845376,99.30090270935736,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-144,Bhopal,Bhopal_School_4,6,Math,30,Good_4G,PreLoaded_Printed,10.0,10,61.78339275710308,152.31917006677486,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-145,Bhopal,Bhopal_School_1,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,88.74491512053723,126.92976951795984,0.0,1.0,0.0,1.0,1.0,High,,,,,,
+BHP-RAI-146,Bhopal,Bhopal_School_2,8,Math,35,Moderate_3G,PreLoaded_Printed,10.0,9,59.016544127024616,121.83611549161348,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-147,Bhopal,Bhopal_School_3,7,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,9,83.99991311887256,103.7985383158102,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-148,Bhopal,Bhopal_School_4,7,Math,42,Moderate_3G,PreLoaded_Printed,10.0,9,88.05101596033131,129.9136377594521,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-149,Bhopal,Bhopal_School_1,7,Hindi,35,Good_4G,PreLoaded_Printed,10.0,9,77.75656701934562,123.33539239193036,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-150,Bhopal,Bhopal_School_2,8,Hindi,30,Good_4G,PreLoaded_Printed,10.0,10,58.85009237733502,133.3681592188473,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-151,Bhopal,Bhopal_School_3,6,Hindi,30,Good_4G,PreLoaded_Printed,10.0,10,60.14960645540607,111.19985218009197,0.0,0.0,1.0,0.0,1.0,High,,,,,,
+BHP-RAI-152,Bhopal,Bhopal_School_4,8,Math,30,Good_4G,PreLoaded_Printed,10.0,10,79.8203582317541,128.4384150847057,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-153,Bhopal,Bhopal_School_1,6,Math,35,Moderate_3G,PreLoaded_Printed,10.0,10,92.8420573338696,95.44784369726015,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-154,Bhopal,Bhopal_School_2,7,Math,30,Good_4G,PreLoaded_Printed,10.0,9,70.2066485652138,138.96353650724603,0.0,0.0,0.0,1.0,0.0,High,,,,,,
+BHP-RAI-155,Bhopal,Bhopal_School_3,8,Math,30,Moderate_3G,PreLoaded_Printed,10.0,9,55.82966124845436,87.12518568823884,1.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-156,Bhopal,Bhopal_School_4,6,Math,30,Good_4G,PreLoaded_Printed,10.0,9,55.60282014530763,107.9805207399328,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-157,Bhopal,Bhopal_School_1,8,Hindi,35,Moderate_3G,PreLoaded_Printed,10.0,10,75.04173556382368,152.40859290208147,0.0,0.0,0.0,0.0,1.0,High,,,,,,
+BHP-RAI-158,Bhopal,Bhopal_School_2,7,Hindi,30,Moderate_3G,PreLoaded_Printed,10.0,10,50.53989948877104,123.4194194313644,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-159,Bhopal,Bhopal_School_3,8,Hindi,42,Moderate_3G,PreLoaded_Printed,10.0,10,71.20971467998554,127.8416905940174,0.0,0.0,0.0,0.0,0.0,Medium,,,,,,
+BHP-RAI-160,Bhopal,Bhopal_School_4,8,Hindi,30,Good_4G,PreLoaded_Printed,10.0,10,67.99777581315327,111.45350634863658,0.0,0.0,0.0,0.0,0.0,High,,,,,,
+BHP-RAI-001,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,1.0,0.0
+BHP-RAI-002,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-003,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-004,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-005,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-006,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,1.0,0.0
+BHP-RAI-007,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-008,Raisen,MS Kharbai,6,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-009,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-010,Raisen,MS Kharbai,6,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-011,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,1.0,0.0
+BHP-RAI-012,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-013,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-014,Raisen,MS Kharbai,7,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-015,Raisen,MS Kharbai,6,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-016,Raisen,MS Kharbai,6,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,1.0,0.0
+BHP-RAI-017,Raisen,MS Kharbai,8,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-018,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-019,Raisen,MS Kharbai,8,Hindi,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-020,Raisen,MS Kharbai,7,Math,35,No_Network_Zero,PreLoaded_Printed,,0,0.0,0.0,,,,,,Critical_Blocker,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-021,Raisen,MS Bishankheda,6,Math,25,Moderate_3G,PreLoaded_Printed,,10,21.332846073958894,129.8437714965664,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-022,Raisen,MS Bishankheda,7,Hindi,25,Moderate_3G,PreLoaded_Printed,,9,27.959538883821114,121.98954228545388,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-023,Raisen,MS Bishankheda,7,Math,25,Moderate_3G,PreLoaded_Printed,,9,26.832940245109977,119.97585211299823,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-024,Raisen,MS Bishankheda,6,Hindi,25,Moderate_3G,PreLoaded_Printed,,10,23.878232167948255,102.65941591490927,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-025,Raisen,MS Bishankheda,7,Hindi,25,Moderate_3G,PreLoaded_Printed,,9,29.37890719236116,97.34987620034774,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-026,Raisen,MS Bishankheda,7,Hindi,25,Moderate_3G,PreLoaded_Printed,,10,21.851348828855492,114.36233483042949,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-027,Raisen,MS Bishankheda,8,Hindi,25,Moderate_3G,PreLoaded_Printed,,8,29.084633029983937,114.05641937427964,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-028,Raisen,MS Bishankheda,7,Math,25,Moderate_3G,PreLoaded_Printed,,9,26.095231011641157,108.38675565292853,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-029,Raisen,MS Bishankheda,6,Math,25,Moderate_3G,PreLoaded_Printed,,9,24.887764301640743,124.68546671462698,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-030,Raisen,MS Bishankheda,6,Hindi,25,Moderate_3G,PreLoaded_Printed,,8,23.548030268242503,105.84009513523401,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-031,Raisen,MS Bishankheda,8,Math,25,Moderate_3G,PreLoaded_Printed,,8,21.029266218947207,102.45242809435584,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-032,Raisen,MS Bishankheda,7,Math,25,Moderate_3G,PreLoaded_Printed,,10,29.757045402698857,120.1332089160801,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-033,Raisen,MS Bishankheda,7,Math,25,Moderate_3G,PreLoaded_Printed,,10,28.81799579766672,114.89346595104556,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-034,Raisen,MS Bishankheda,8,Hindi,25,Moderate_3G,PreLoaded_Printed,,9,25.877937575552707,107.0754002957644,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0
+BHP-RAI-035,Raisen,MS Bishankheda,6,Math,25,Moderate_3G,PreLoaded_Printed,,9,29.4217839673065,115.55873661194765,,,,,,Medium,10.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,15 @@
+{
+  "title": "Master Engineering Roadmap (P0 - P3 Priorities)",
+  "timestamp": "2026-08-31 14:45:00",
+  "description": "Categorized engineering action plan to prepare AssessClear for district rollout.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What are the P0 critical action items required before pilot rollout?"
+    },
+    {
+      "role": "assistant",
+      "content": "### 🛠️ P0 Critical Pre-Pilot Action Items\n\n| Item | Target Root Cause | Expected Impact | Timeline |\n|---|---|---|---|\n| **1. Fix Vision Auto-Crop** | Bounding boxes clip top/bottom headers | Lifts question detection from 89.6% to >99.0% | Week 1 |\n| **2. Offline-First PWA Caching** | Zero-network stall in MS Kharbai (Raisen) | Eliminates 10% critical blocker failure | Week 1 |\n| **3. Refactor DB Schema** | Tracks question IDs instead of student copies | Eliminates 59.3% data loss rate in Katni | Week 1 |\n| **4. Blur Quality Gate** | AI hallucinates scores on blurry images | Prevents corrupt diagnostic data | Week 1 |"
+    }
+  ]
+}
