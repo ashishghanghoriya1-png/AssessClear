@@ -45,8 +45,9 @@ def load_data():
         # Fallback generator
         np.random.seed(42)
         records = []
+        bhopal_schs = ["MS Green Park", "MS Putlighar", "HS Kanya"]
         for i in range(125):
-            records.append({"student_id": f"BHP-{i+1:03d}", "district": "Bhopal", "school": f"Bhopal_MS_{1 + (i%4)}", "grade": np.random.choice([6,7,8]), "subject": np.random.choice(["Math", "Hindi"]), "class_size": 35, "network_quality": "Moderate_3G", "questions_detected": np.random.choice([8,9,10], p=[0.15,0.25,0.60]), "process_time_sec": np.random.normal(73, 10), "review_time_sec": np.random.normal(120, 15), "risk_tier": "Medium"})
+            records.append({"student_id": f"BHP-{i+1:03d}", "district": "Bhopal", "school": bhopal_schs[i % 3], "grade": np.random.choice([6,7,8]), "subject": np.random.choice(["Math", "Hindi"]), "class_size": 35, "network_quality": "Moderate_3G", "questions_detected": np.random.choice([8,9,10], p=[0.15,0.25,0.60]), "process_time_sec": np.random.normal(73, 10), "review_time_sec": np.random.normal(120, 15), "risk_tier": "Medium"})
         for i in range(100):
             records.append({"student_id": f"IND-{i+1:03d}", "district": "Indore", "school": "Nandbag" if i < 50 else "Subhash Nagar", "grade": 6 if i < 50 else 8, "subject": "Math" if i%2==0 else "Hindi", "class_size": 40, "network_quality": "Good_4G", "questions_detected": np.random.choice([7,8,9,10], p=[0.25,0.20,0.15,0.40]), "process_time_sec": np.random.normal(23, 3), "review_time_sec": np.random.normal(101, 12), "risk_tier": "High" if i<15 else "Medium"})
         for i in range(91):
